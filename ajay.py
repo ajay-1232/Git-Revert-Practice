@@ -1,5 +1,4 @@
 a = 10
 b = 5
-c = 6
-sum = a + b + c
+sum = a + b
 print("Sum is:", sum)
